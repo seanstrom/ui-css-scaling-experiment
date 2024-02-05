@@ -1,0 +1,11 @@
+{
+  "name": "ui-css-scaling-experiment",
+  "version": "0.0.1",
+  "description": "",
+  "author": "seanstrom",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-stylus": "^2.11.0",
+    "parcel": "^2.11.0"
+  }
+}
